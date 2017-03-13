@@ -1,0 +1,20 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "webpack boiler plate code for developers",
+  "main": "app.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "url will be added later"
+  },
+  "keywords": [
+    "webpack",
+    "webpack",
+    "boilerplate"
+  ],
+  "author": "Ranjithprabhu K",
+  "license": "MIT"
+}
